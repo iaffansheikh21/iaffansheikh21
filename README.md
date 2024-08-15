@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Affan Sheikh</h1>
 <h3 align="center">As a software engineer driven by a love for clean code and innovation, I’m always exploring new ways to solve complex problems. Check out my repositories and discover a world of coding possibilities.</h3>
-<img align-"right" alt="Coding" width="300" height="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="300" height="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iaffansheikh21&label=Profile%20views&color=0e75b6&style=flat" alt="iaffansheikh21" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iaffansheikh21" alt="iaffansheikh21" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/iaffansheikh21" target="blank"><img src="https://img.shields.io/twitter/follow/iaffansheikh21?logo=twitter&style=for-the-badge" alt="iaffansheikh21" /></a> </p>
 
