@@ -39,8 +39,9 @@
 
 ### 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,docker,git,github,vercel,postman,linux,python,fastapi,html,css,java,mysql,postgresql,mssql,c,cpp,cs,kubernetes,aws,azure,githubactions" alt="Skill Icons" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,tailwind,bootstrap,git,github,vercel,postman,linux,python,fastapi,html,css,java,mysql,postgresql,mssql,c,cpp,cs,figma,firebase,flutter,pandas,sklearn,docker,kubernetes,githubactions,aws,azure" alt="Skill Icons" />
 </p>
+
 
 ---
 
