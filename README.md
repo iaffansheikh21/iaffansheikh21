@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Muhammad%20Affan%20Sheikh&fontSize=30&fontAlignY=35&desc=Software%20Engineer%20|%20MERN%20Stack%20Developer%20|%20DevOps%20Learner&descSize=16&descAlignY=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Muhammad%20Affan%20Sheikh&fontSize=32&fontAlignY=35&desc=Software%20Engineer%20|%20MERN%20Stack%20Developer%20|%20DevOps%20Learner&descSize=16&descAlignY=50"/>
 </div>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="300" height="400" alt="Coding" />
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="280" height="380" alt="Coding" />
 </p>
 
 <p align="center">
@@ -29,10 +29,10 @@
 
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://twitter.com/iaffansheikh21" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/iaffansheikh21/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.facebook.com/iaffansheikh21" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://instagram.com/iaffansheikh21" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/iaffansheikh21" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/iaffansheikh21/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/iaffansheikh21" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
+  <a href="https://instagram.com/iaffansheikh21" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
@@ -46,11 +46,11 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iaffansheikh21&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iaffansheikh21&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=iaffansheikh21&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iaffansheikh21&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iaffansheikh21&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iaffansheikh21&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 ---
