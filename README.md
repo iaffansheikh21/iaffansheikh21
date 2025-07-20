@@ -1,10 +1,10 @@
-<!-- Profile Header -->
-<h1 align="center" style="font-weight: bold; background: linear-gradient(90deg, #00dbde, #fc00ff); -webkit-background-clip: text; color: transparent;">
+<!-- Header -->
+<h1 align="center" style="background: linear-gradient(to right, #00dbde, #fc00ff); -webkit-background-clip: text; color: transparent;">
   Hi 👋, I'm Muhammad Affan Sheikh
 </h1>
 
 <h3 align="center">
-  💻 Software Engineer | ⚙️ MERN Stack Developer | 🚀 Tech Explorer
+  💻 Software Engineer | ⚙️ MERN Stack Developer | 🚀 FastAPI & DevOps Learner
 </h3>
 
 <p align="center">
@@ -22,10 +22,10 @@
 
 ## 🧠 About Me
 
-- 🔭 Working on **Next.js** full-stack projects
-- 🌱 Learning **FastAPI**, **TypeScript**, and backend architecture
-- 🧩 Passionate about solving problems like a puzzle master
-- ⚡ Fun fact: I break bugs like a detective 🔍
+- 🔭 Currently building full-stack projects using **Next.js** & **MongoDB**
+- 🌱 Learning **FastAPI**, **DevOps**, and cloud deployment strategies
+- 🧩 Obsessed with solving real-world problems using tech
+- ⚡ Fun fact: I treat bugs like mini-bosses in a game 🎮
 
 ---
 
@@ -48,23 +48,32 @@
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages&align=center&fontSize=15&lineCount=2&stack=JavaScript,TypeScript,Python,C++,C#,Java,SQL,HTML,CSS" />
-</p>
+### 💻 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-<p align="left">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frameworks&align=center&fontSize=15&lineCount=2&stack=Next.js,React,Node.js,Express.js,FastAPI,Firebase" />
-</p>
+### 🧩 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi)
 
-<p align="left">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Databases&align=center&fontSize=15&lineCount=1&stack=MongoDB,PostgreSQL,MySQL,SQL Server" />
-</p>
+### 🗄️ Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-<p align="left">
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Tools&align=center&fontSize=15&lineCount=2&stack=Git,Postman,Vercel,VSCode,Figma,Docker" />
-</p>
+### ⚙️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
 
@@ -84,9 +93,10 @@
 
 ## 🚀 Currently Exploring
 
-- 🧠 AI + Web Integration (LLMs, Embeddings, Pinecone)
-- 📦 Fast APIs, clean architecture & microservices
-- ☁️ Vercel, CI/CD, Edge & Serverless Functions
+- ⚡ FastAPI and RESTful backend services
+- 🛠️ DevOps (CI/CD, Docker, GitHub Actions)
+- ☁️ Cloud deployments with Vercel & Netlify
+- 📈 Scalable backend architecture
 
 ---
 
