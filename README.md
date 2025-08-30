@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on **Next.js projects**, focusing on API development and backend integration.  
 - 🌱 I’m currently learning **DevOps**: CI/CD pipelines, GitHub Actions, Docker, Monitoring, and Infrastructure as Code (IaC).  
 - 🔬 Exploring **FastAPI** for modern async Python backends.  
-- 👨‍💻 All of my work is on [portfolio-affan-dev.vercel.app](https://portfolio-affan-dev.vercel.app/)  
+- 👨‍💻 All of my work is on [portfolio-affan-dev.vercel.app](https://dev-affan-portfolio.vercel.app/)  
 - 💬 Ask me about **MERN, TypeScript, Python, JavaScript**  
 - 📫 Reach me at: **muhammadaffansheikh21@gmail.com**  
 - ⚡ Fun fact: **I debug like Sherlock Holmes 🕵️ — with patience and curiosity.**
