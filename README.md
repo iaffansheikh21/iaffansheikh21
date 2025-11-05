@@ -47,12 +47,13 @@
 
 ### 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iaffansheikh21&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iaffansheikh21&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Top Languages" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api?username=iaffansheikh21&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iaffansheikh21&show_icons=true&locale=en&theme=nightowl" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iaffansheikh21&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=iaffansheikh21&theme=nightowl" alt="GitHub Streak" />
 </div>
+
 
 ---
 
