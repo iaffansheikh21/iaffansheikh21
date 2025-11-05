@@ -51,7 +51,8 @@
   <br />
   <img src="https://github-readme-stats.vercel.app/api?username=iaffansheikh21&show_icons=true&locale=en&theme=nightowl" alt="GitHub Stats" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=iaffansheikh21&theme=nightowl" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=iaffansheikh21&theme=nightowl&cachebuster=1" alt="GitHub Streak" />
+
 </div>
 
 
